@@ -2,3 +2,5 @@
 For course MECS0033 KEPINTARAN BUATAN (ARTIFICIAL INTELLIGENCE)
 
 You can download the ZIP file and follow the instruction to install and use. 
+
+You can follow this demo video to install and use it.
